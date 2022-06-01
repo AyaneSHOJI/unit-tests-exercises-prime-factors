@@ -73,18 +73,17 @@
 // 4 / 2 = 2 
 // cycle2
 // 2 / 2 = 1 
+
 //e.g. 30
 //cycle1
-//30 / 2 = 15
+//30 / 5 = 6
 //cycle2
-//15 / 2 = 
-//15 / 3 = 5
+//6 / 3 = 2
 //cycle3
-//5 / 2 =
-//...
-//5 / 5 = 1
+//2 / 2 = 1
 
-//divide int prime number from 2
+//How to do ?
+//divide by int prime number (in this project, keep only small prime numbers)
 //when prime number can divide without remainder, the resultat assign as new number
 //repeat operation
 //when the result is 1, stop operation
